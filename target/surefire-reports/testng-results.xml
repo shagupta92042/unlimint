@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite2" duration-ms="86985" started-at="2022-10-17T23:05:59 IST" finished-at="2022-10-17T23:07:26 IST">
+    <groups>
+    </groups>
+    <test name="generateUserRegisterAndThenPlaceAndValidateTheOrder" duration-ms="86985" started-at="2022-10-17T23:05:59 IST" finished-at="2022-10-17T23:07:26 IST">
+      <class name="RegisterAndOrderTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:RegisterAndOrderTest@2f54a33d]" name="beforeSuite" is-config="true" duration-ms="16" started-at="2022-10-17T23:05:59 IST" finished-at="2022-10-17T23:05:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:RegisterAndOrderTest@2f54a33d]" name="beforeTest" is-config="true" duration-ms="11198" started-at="2022-10-17T23:05:59 IST" finished-at="2022-10-17T23:06:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="generateUserRegisterAndThenPlaceAndValidateTheOrder()[pri:0, instance:RegisterAndOrderTest@2f54a33d]" name="generateUserRegisterAndThenPlaceAndValidateTheOrder" duration-ms="74718" started-at="2022-10-17T23:06:10 IST" description=" Generate the random user and then parse the user details to the UI code and Register the user. Add address for the user and then place a random order and then fetch the order Id and validate the order on My Orders page. " finished-at="2022-10-17T23:07:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateUserRegisterAndThenPlaceAndValidateTheOrder -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:RegisterAndOrderTest@2f54a33d]" name="afterTest" is-config="true" duration-ms="1014" started-at="2022-10-17T23:07:25 IST" finished-at="2022-10-17T23:07:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- RegisterAndOrderTest -->
+    </test> <!-- generateUserRegisterAndThenPlaceAndValidateTheOrder -->
+  </suite> <!-- TestSuite2 -->
+</testng-results>
