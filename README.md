@@ -16,6 +16,7 @@ mvn clean test -Dxml="test1.xml"
 
 You can also run the test cases from "RegisterAndOrderTest" class.
 
-
+**logs :**
+You can check the generated logs in the logs folder.
 
 
